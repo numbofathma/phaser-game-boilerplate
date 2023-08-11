@@ -1,0 +1,28 @@
+.hud {
+  user-select: none;
+  font-size: 2em;
+}
+
+/* The font is broken, fix it */
+#Score>div>span {
+  font-family: Minecraftia;
+  font-size: 28pt;
+  line-height: 0.5em;
+  position: relative;
+  top: 0.7em;
+}
+
+#Score>div {
+  position: absolute;
+  left: 3%;
+  top: 1em;
+  max-width: 20vw;
+}
+
+#Lives>div {
+  position: absolute;
+  right: 3%;
+  top: 1em;
+  max-width: 80vw;
+  overflow-wrap: break-word;
+}

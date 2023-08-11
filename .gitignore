@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+*.map
+.DS_Store
+.sourcemaps
+dist/
+
+gulpfile.js
+sounds
+tools

@@ -1,0 +1,31 @@
+.startButton {
+  font-family: Minecraftia;
+  font-size: 28pt;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+  padding: 0.7em 0.5em 0em;
+  line-height: 1.2em;
+  background-color: lightgray;
+  text-shadow: -1px -1px black, 1px 1px white;
+  color: gray;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -o-border-radius: 7px;
+  border-radius: 7px;
+  box-shadow: 0 .2em gray;
+  cursor: pointer;
+}
+
+.container {
+  width: 100vw;
+  position: absolute;
+  text-align: center;
+  bottom: 10vh;
+}
+
+.startButton:active {
+  box-shadow: none;
+  position: relative;
+  top: .2em;
+}

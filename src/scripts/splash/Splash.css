@@ -1,0 +1,31 @@
+.splash {
+  display: flex;
+  flex-basis: 100%;
+
+  min-height: 100vh;
+  word-break: keep-all;
+  align-items: top;
+  justify-content: center;
+
+  /** background as splash screen */
+  -webkit-background-size: cover;
+  -moz-background-size: center cover;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.splash .logo {
+  max-width: 70vw;
+  margin-top: 5vh;
+  height: 20vh;
+}
+
+.splash .logo-img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.splash .logo-img {
+  z-index: 1;
+}

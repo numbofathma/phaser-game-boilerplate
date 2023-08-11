@@ -1,0 +1,22 @@
+{
+  "resources": [
+    "../saudio/sounds.mp3"
+  ],
+  "spritemap": {
+    "btn": {
+      "start": 0,
+      "end": 0.03337868480725623,
+      "loop": false
+    },
+    "collect": {
+      "start": 1.03,
+      "end": 1.186734693877551,
+      "loop": false
+    },
+    "fail": {
+      "start": 2.06,
+      "end": 2.2689795918367346,
+      "loop": false
+    }
+  }
+}

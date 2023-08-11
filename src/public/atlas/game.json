@@ -1,0 +1,1068 @@
+{
+  "textures": [
+    {
+      "image": "game.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 370,
+        "h": 378
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "knight/knight iso char_idle_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 24,
+            "y": 0,
+            "w": 34,
+            "h": 82
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 34,
+            "h": 82
+          }
+        },
+        {
+          "filename": "knight/knight iso char_idle_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 2,
+            "w": 30,
+            "h": 80
+          },
+          "frame": {
+            "x": 40,
+            "y": 2,
+            "w": 30,
+            "h": 80
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice left_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 2,
+            "y": 18,
+            "w": 78,
+            "h": 66
+          },
+          "frame": {
+            "x": 74,
+            "y": 2,
+            "w": 78,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice right_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 18,
+            "w": 78,
+            "h": 66
+          },
+          "frame": {
+            "x": 74,
+            "y": 72,
+            "w": 78,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice down_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 8,
+            "w": 74,
+            "h": 60
+          },
+          "frame": {
+            "x": 156,
+            "y": 2,
+            "w": 74,
+            "h": 60
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice up_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 4,
+            "w": 74,
+            "h": 72
+          },
+          "frame": {
+            "x": 156,
+            "y": 66,
+            "w": 74,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run left_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 30,
+            "y": 12,
+            "w": 20,
+            "h": 72
+          },
+          "frame": {
+            "x": 40,
+            "y": 86,
+            "w": 20,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run left_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 20,
+            "y": 10,
+            "w": 46,
+            "h": 72
+          },
+          "frame": {
+            "x": 64,
+            "y": 142,
+            "w": 46,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run left_3.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 30,
+            "y": 12,
+            "w": 20,
+            "h": 72
+          },
+          "frame": {
+            "x": 2,
+            "y": 88,
+            "w": 20,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run left_4.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 22,
+            "y": 10,
+            "w": 44,
+            "h": 72
+          },
+          "frame": {
+            "x": 114,
+            "y": 142,
+            "w": 44,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run right_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 34,
+            "y": 12,
+            "w": 20,
+            "h": 72
+          },
+          "frame": {
+            "x": 162,
+            "y": 142,
+            "w": 20,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run right_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 18,
+            "y": 10,
+            "w": 46,
+            "h": 72
+          },
+          "frame": {
+            "x": 234,
+            "y": 2,
+            "w": 46,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run right_3.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 34,
+            "y": 12,
+            "w": 20,
+            "h": 72
+          },
+          "frame": {
+            "x": 186,
+            "y": 142,
+            "w": 20,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run right_4.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 18,
+            "y": 10,
+            "w": 44,
+            "h": 72
+          },
+          "frame": {
+            "x": 234,
+            "y": 78,
+            "w": 44,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice left_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 16,
+            "y": 12,
+            "w": 20,
+            "h": 72
+          },
+          "frame": {
+            "x": 210,
+            "y": 142,
+            "w": 20,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice right_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 48,
+            "y": 12,
+            "w": 20,
+            "h": 72
+          },
+          "frame": {
+            "x": 234,
+            "y": 154,
+            "w": 20,
+            "h": 72
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run left_5.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 16,
+            "y": 14,
+            "w": 50,
+            "h": 70
+          },
+          "frame": {
+            "x": 2,
+            "y": 230,
+            "w": 50,
+            "h": 70
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run right_5.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 18,
+            "y": 14,
+            "w": 50,
+            "h": 70
+          },
+          "frame": {
+            "x": 56,
+            "y": 230,
+            "w": 50,
+            "h": 70
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run down_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 110,
+            "y": 230,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run down_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 148,
+            "y": 230,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run down_4.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 186,
+            "y": 230,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run left_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 18,
+            "y": 16,
+            "w": 46,
+            "h": 68
+          },
+          "frame": {
+            "x": 224,
+            "y": 230,
+            "w": 46,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run right_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 20,
+            "y": 16,
+            "w": 46,
+            "h": 68
+          },
+          "frame": {
+            "x": 284,
+            "y": 2,
+            "w": 46,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run up_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 258,
+            "y": 154,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run up_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 296,
+            "y": 74,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run up_4.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 296,
+            "y": 146,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice down_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 4,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 296,
+            "y": 218,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice up_0.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 14,
+            "w": 34,
+            "h": 68
+          },
+          "frame": {
+            "x": 2,
+            "y": 304,
+            "w": 34,
+            "h": 68
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run down_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 24,
+            "y": 16,
+            "w": 36,
+            "h": 66
+          },
+          "frame": {
+            "x": 40,
+            "y": 304,
+            "w": 36,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run down_3.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 16,
+            "w": 34,
+            "h": 66
+          },
+          "frame": {
+            "x": 80,
+            "y": 304,
+            "w": 34,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run up_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 24,
+            "y": 16,
+            "w": 36,
+            "h": 66
+          },
+          "frame": {
+            "x": 118,
+            "y": 302,
+            "w": 36,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_run up_3.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 16,
+            "w": 34,
+            "h": 66
+          },
+          "frame": {
+            "x": 158,
+            "y": 302,
+            "w": 34,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice left_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 2,
+            "y": 18,
+            "w": 50,
+            "h": 66
+          },
+          "frame": {
+            "x": 274,
+            "y": 290,
+            "w": 50,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice right_2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 32,
+            "y": 18,
+            "w": 50,
+            "h": 66
+          },
+          "frame": {
+            "x": 196,
+            "y": 302,
+            "w": 50,
+            "h": 66
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice down_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 28,
+            "y": 6,
+            "w": 34,
+            "h": 64
+          },
+          "frame": {
+            "x": 26,
+            "y": 162,
+            "w": 34,
+            "h": 64
+          }
+        },
+        {
+          "filename": "knight/knight iso char_slice up_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 28,
+            "y": 18,
+            "w": 34,
+            "h": 58
+          },
+          "frame": {
+            "x": 334,
+            "y": 2,
+            "w": 34,
+            "h": 58
+          }
+        },
+        {
+          "filename": "fruits/Apple.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 15,
+            "h": 16
+          },
+          "frame": {
+            "x": 250,
+            "y": 360,
+            "w": 15,
+            "h": 16
+          }
+        },
+        {
+          "filename": "fruits/Avocado.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 1,
+            "w": 16,
+            "h": 15
+          },
+          "frame": {
+            "x": 269,
+            "y": 360,
+            "w": 16,
+            "h": 15
+          }
+        },
+        {
+          "filename": "fruits/Bread.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 1,
+            "w": 16,
+            "h": 15
+          },
+          "frame": {
+            "x": 289,
+            "y": 360,
+            "w": 16,
+            "h": 15
+          }
+        },
+        {
+          "filename": "fruits/Brownie.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 2,
+            "w": 16,
+            "h": 14
+          },
+          "frame": {
+            "x": 274,
+            "y": 226,
+            "w": 16,
+            "h": 14
+          }
+        },
+        {
+          "filename": "fruits/Cheese.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 1,
+            "w": 16,
+            "h": 15
+          },
+          "frame": {
+            "x": 309,
+            "y": 360,
+            "w": 16,
+            "h": 15
+          }
+        },
+        {
+          "filename": "fruits/Cookie.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 2,
+            "w": 16,
+            "h": 13
+          },
+          "frame": {
+            "x": 274,
+            "y": 244,
+            "w": 16,
+            "h": 13
+          }
+        },
+        {
+          "filename": "fruits/MelonHoneydew.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 1,
+            "w": 16,
+            "h": 15
+          },
+          "frame": {
+            "x": 274,
+            "y": 261,
+            "w": 16,
+            "h": 15
+          }
+        },
+        {
+          "filename": "fruits/MelonWater.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 1,
+            "w": 16,
+            "h": 15
+          },
+          "frame": {
+            "x": 2,
+            "y": 164,
+            "w": 16,
+            "h": 15
+          }
+        },
+        {
+          "filename": "fruits/Peach.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 0,
+            "w": 14,
+            "h": 16
+          },
+          "frame": {
+            "x": 250,
+            "y": 302,
+            "w": 14,
+            "h": 16
+          }
+        },
+        {
+          "filename": "fruits/PieLemon.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 3,
+            "w": 16,
+            "h": 13
+          },
+          "frame": {
+            "x": 2,
+            "y": 183,
+            "w": 16,
+            "h": 13
+          }
+        },
+        {
+          "filename": "fruits/Lemon.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 14,
+            "h": 15
+          },
+          "frame": {
+            "x": 250,
+            "y": 322,
+            "w": 14,
+            "h": 15
+          }
+        },
+        {
+          "filename": "fruits/Onion.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 16,
+            "h": 16
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 2,
+            "w": 15,
+            "h": 14
+          },
+          "frame": {
+            "x": 250,
+            "y": 341,
+            "w": 15,
+            "h": 14
+          }
+        },
+        {
+          "filename": "knight/knight iso char_idle_1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 26,
+            "y": 2,
+            "w": 30,
+            "h": 80
+          },
+          "frame": {
+            "x": 40,
+            "y": 2,
+            "w": 30,
+            "h": 80
+          }
+        },
+        {
+          "filename": "knight/knight iso char_idle_3.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 24,
+            "y": 0,
+            "w": 34,
+            "h": 82
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 34,
+            "h": 82
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "version": "0.5.4"
+  }
+}
